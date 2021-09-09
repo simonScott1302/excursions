@@ -2,6 +2,7 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 h1 {
     font-weight: normal;
@@ -22,4 +23,15 @@ a {
 
 #description {
     color: slategray;
+}
+#comingsoon {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+footer {
+    text-align: right;
+    color: slategray;
+    font-size: 25px;
 }
